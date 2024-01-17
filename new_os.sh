@@ -15,5 +15,10 @@ sudo snap install --classic code
 sudo apt install curl
 
 #install starship
-
 curl -sS https://starship.rs/install.sh | sh
+
+#instll NeoVim
+sudo apt install neovim
+
+#install git
+sudo apt install git
