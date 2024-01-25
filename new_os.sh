@@ -22,3 +22,6 @@ sudo apt install neovim
 
 #install git
 sudo apt install git
+
+#install htop
+sudo apt intall htop
